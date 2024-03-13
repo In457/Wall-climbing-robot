@@ -1,4 +1,5 @@
 ABSTRACT
+
 The Robot, named as Wall Climbing Robot is designed to walk on the horizontal surface and to climb vertically.
 The robotic structure is inspired by the spider anatomy. The purpose of the robot is to climb vertical surfaces 
 where it is difficult for humans to reach also the miniature version of this robot can be used for security purpose.  
